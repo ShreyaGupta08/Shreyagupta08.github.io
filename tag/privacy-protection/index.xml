@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy protection | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/privacy-protection/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/privacy-protection/index.xml" rel="self" type="application/rss+xml" />
+    <description>privacy protection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>privacy protection</title>
+      <link>https://shreyagupta08.github.io/tag/privacy-protection/</link>
+    </image>
+    
+    <item>
+      <title>Risk Assessment and Measurement of Privacy Leak in Google&#39;s Ads Data Hub</title>
+      <link>https://shreyagupta08.github.io/project/rips/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/rips/</guid>
+      <description>&lt;p&gt;In the summers of 2019, I had the opportunity to work with a team of three talented researchers, with support of an academic advisor (Dr. Bao Wang) and with two industrial advisors (Vardhan Akopian and Scott Schneider), under the RIPS scholarship program conducted by Institute of Pure and Applied Mathematics, UCLA.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-rips-internship&#34;&gt;Introduction: RIPS Internship&lt;/h2&gt;
+&lt;p&gt;RIPS stands for Research in Industrial Projects for Students. It is an annual research program organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019. Application Procedure and pre-intern experience is available &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-application-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and Personal Experience is covered &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-internship&#34;&gt;THE INTERNSHIP&lt;/h2&gt;
+&lt;p&gt;RIPS is a crossover between research and industrial experience. We are given an industrial problem and have to solve it using quantitative and qualitative research. Each year witnesses industrial companies bringing their problems. I had a chance to work, with my fellow teammates, for Google, LA.&lt;/p&gt;
+&lt;h2 id=&#34;problem-description&#34;&gt;Problem Description&lt;/h2&gt;
+&lt;p&gt;Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad campaigns (system diagram in figure 1).
+The advertisers can not see the raw data, for it can violate users&#39; privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google&amp;rsquo;s ADH.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;adh_system_rips.png&#34;&gt;&lt;img src=&#34;adh_system_rips.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Figure 1: High level overview of working of ADH&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descriptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.&lt;/p&gt;
+&lt;h2 id=&#34;tangibles&#34;&gt;Tangibles&lt;/h2&gt;
+&lt;p&gt;We presented our work to RIPS Colloquium. Our research was selected to represent RIPS at the annual CUR Sympoisum, held at Alexandria, Virginia, where we were selected to present a poster. The work received recognition and appreciation for its logical improvisation and technical extention of the previous state-of-the-art methodology [1]. Additionally, the work received Outstanding Poster Award at Joint Mathematics Meet 2020, held at Denver and Best Poster Award at &lt;a href=&#34;http://lcs2.iiitd.edu.in/acss2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSS&lt;/a&gt; held at IIIT-Delhi. The project&amp;rsquo;s report is available on request.&lt;/p&gt;
+&lt;h3 id=&#34;slides-presentation-recording-and-project-report-available-on-request&#34;&gt;Slides, Presentation recording and project report available on request&lt;/h3&gt;
+&lt;p&gt;Feel free to email at shreyag [at] iiitd [dot] ac [dot] in - if you are interested in discussing the work, perusing the report or both.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

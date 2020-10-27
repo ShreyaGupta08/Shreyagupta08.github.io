@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/authors/</link>
+      <atom:link href="https://shreyagupta08.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://shreyagupta08.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

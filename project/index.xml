@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/project/</link>
+      <atom:link href="https://shreyagupta08.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://shreyagupta08.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Flare Detector for Reddit Data</title>
+      <link>https://shreyagupta08.github.io/project/flare-detector/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/flare-detector/</guid>
+      <description>&lt;p&gt;Flair detector is a web application, deployed using Heroku. The application can be seen &lt;a href=&#34;https://flair-detector-for-reddit.herokuapp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. It scrapes posts using the URL and then uses a Random Forest model to predict the flair of the post.&lt;/p&gt;
+&lt;p&gt;The project contains the code which performs the following functionalities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Scrapping posts from Indian Subreddit according to two methods: hottest posts and distributed posts in accordance with flairs&lt;/li&gt;
+&lt;li&gt;Exploratory Data Analysis: contains bar graphs and pie-charts to analyse data distributions for the attributes collected in step 1.&lt;/li&gt;
+&lt;li&gt;Textual Pre-Processing: pre-processes textual data for attributes like Title of the post and Content of the posts.&lt;/li&gt;
+&lt;li&gt;Building and contrasting different models: Builds, trains and validates four ML models, Naive Bayes, Random Forest, Logistic Regression and Multi-layer Perceptron using different features and then selects the feature-model pair performing the best.&lt;/li&gt;
+&lt;li&gt;Building Web Application: Contains the code to build a basic web application that takes as input a post url and displays the predicted flair of the post.&lt;/li&gt;
+&lt;li&gt;Hosts the app on Heroku.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My experimental log on how I designed the project along with the project code and documentation on how to run it in your local machine can be found &lt;a href=&#34;https://github.com/ShreyaGupta08/Flare-Detector-for-Reddit-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;good-things-about-the-project&#34;&gt;Good things about the project:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detailed Documentation&lt;/li&gt;
+&lt;li&gt;Prediction for Photography posts (generally)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scopes-of-improvement&#34;&gt;Scopes of improvement:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction. I realised it a little late that the 71% accuracy in using title as feature (and Random Forest as learning algorithm) is achieved because the title contained the flair in most cases. This was weird and has been mentioned in better detail in the Experimental log.ipynb file. Time remaining, I would have liked to find a way to:
+&lt;ul&gt;
+&lt;li&gt;incorporate comments, content and title with the title (and dealing with NaNs appropriately)&lt;/li&gt;
+&lt;li&gt;Used better learning algorithms&lt;/li&gt;
+&lt;li&gt;collected more data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;future-work&#34;&gt;Future work:&lt;/h3&gt;
+&lt;p&gt;In data exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;finding the number of posts in each flair for which content != None&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;finding the correlation between individual flair confusion matrix obtained from using content only with the number of samples obtained above&lt;/li&gt;
+&lt;li&gt;verifying if the unequal distribution is one of the reasons behind the low flair accuracy. if yes, checking if increasing the number of sample distribution had any effect on prediction scores. Then maybe, content would not have been as useless after all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;contrasting performance with unsupervised algorithms (like K-Means)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find flair-wise accuracy&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment and Measurement of Privacy Leak in Google&#39;s Ads Data Hub</title>
+      <link>https://shreyagupta08.github.io/project/rips/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/rips/</guid>
+      <description>&lt;p&gt;In the summers of 2019, I had the opportunity to work with a team of three talented researchers, with support of an academic advisor (Dr. Bao Wang) and with two industrial advisors (Vardhan Akopian and Scott Schneider), under the RIPS scholarship program conducted by Institute of Pure and Applied Mathematics, UCLA.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-rips-internship&#34;&gt;Introduction: RIPS Internship&lt;/h2&gt;
+&lt;p&gt;RIPS stands for Research in Industrial Projects for Students. It is an annual research program organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019. Application Procedure and pre-intern experience is available &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-application-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and Personal Experience is covered &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-internship&#34;&gt;THE INTERNSHIP&lt;/h2&gt;
+&lt;p&gt;RIPS is a crossover between research and industrial experience. We are given an industrial problem and have to solve it using quantitative and qualitative research. Each year witnesses industrial companies bringing their problems. I had a chance to work, with my fellow teammates, for Google, LA.&lt;/p&gt;
+&lt;h2 id=&#34;problem-description&#34;&gt;Problem Description&lt;/h2&gt;
+&lt;p&gt;Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad campaigns (system diagram in figure 1).
+The advertisers can not see the raw data, for it can violate users&#39; privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google&amp;rsquo;s ADH.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;adh_system_rips.png&#34;&gt;&lt;img src=&#34;adh_system_rips.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Figure 1: High level overview of working of ADH&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descriptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.&lt;/p&gt;
+&lt;h2 id=&#34;tangibles&#34;&gt;Tangibles&lt;/h2&gt;
+&lt;p&gt;We presented our work to RIPS Colloquium. Our research was selected to represent RIPS at the annual CUR Sympoisum, held at Alexandria, Virginia, where we were selected to present a poster. The work received recognition and appreciation for its logical improvisation and technical extention of the previous state-of-the-art methodology [1]. Additionally, the work received Outstanding Poster Award at Joint Mathematics Meet 2020, held at Denver and Best Poster Award at &lt;a href=&#34;http://lcs2.iiitd.edu.in/acss2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSS&lt;/a&gt; held at IIIT-Delhi. The project&amp;rsquo;s report is available on request.&lt;/p&gt;
+&lt;h3 id=&#34;slides-presentation-recording-and-project-report-available-on-request&#34;&gt;Slides, Presentation recording and project report available on request&lt;/h3&gt;
+&lt;p&gt;Feel free to email at shreyag [at] iiitd [dot] ac [dot] in - if you are interested in discussing the work, perusing the report or both.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Neural Correlates of Face Recognition Using Machine Learning Approach</title>
+      <link>https://shreyagupta08.github.io/project/iitd/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/iitd/</guid>
+      <description>&lt;p&gt;In the summers of 2018, I had the opportunity to work under Dr. Tapan Gandhi, IIT Delhi, in his Neuroscience Lab, on using machine learning to design an Artificial Face Recognition model that worked similar to how a human brain recognises faces.&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+&lt;p&gt;Existing face detection algorithms rely on massive amounts of data and perform poorly with angle and light variations [1]. Human brain, on the contrary, faces none of the above problems. Thence, using computational neuroscience to process MEG recordings of users, and support-vector machines for classification in MATLAB, I found responsive sensors and concentrated timestamps during which identification occurred.&lt;/p&gt;
+&lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
+&lt;p&gt;We found that human brain identifies a face between the first 120-240 ms of seeing it. Additionally, the most responsive sensors are located near occipitotemporal and occipitoparietal lobes and few in frontal lobe. Thus, by identifying the active sensors and the differentiating time stamps, the work was able to filter out noisy and less effective sensors and time slots. This mitigates the computational costs of the model built for face recognition by providing researchers the channels and slots to focus their research on.&lt;/p&gt;
+&lt;p&gt;The groundwork trims the active timestamp range by more than half of the existing state-of-the-art algorithm [2]. I presented this work at the ​IEEE International Symposium ISCMM 2019 (figure 1) ​and published it in the Scopus indexed ​Advances in Intelligent Systems and Computing ​(AISC) [3].&lt;/p&gt;
+&lt;h2 id=&#34;future-work&#34;&gt;Future Work&lt;/h2&gt;
+&lt;p&gt;Using eye-tracking, the findings of this paper can be extended to extract features captured by the eyes during the mentioned time stamps (124–240 ms) which enabled brain to detect and classify faces.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From this project, I learned the importance of pragmatic pre-processing and coding efficient solutions for real-life high-dimensional data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;presentation.png&#34;&gt;&lt;img src=&#34;presentation.png&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Conference Presentation Link: &lt;a href=&#34;https://bit.ly/2r6kw9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/2r6kw9n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Khurana, P., Sharma, A., Singh, SN., Singh, P.K.: A survey on object recognition and segmentation techniques. In: 3rd International Conference on Computing for Sustainable Global Development (INDIACom), pp. 3822–3826 (2016)&lt;/p&gt;
+&lt;p&gt;[2] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+&lt;p&gt;[3] Gupta, S., Gandhi, T.: Identification of Neural Correlates of Face Recognition Using Machine Learning Approach. Advances in Intelligent Systems and Computing, vol 992. Springer, Singapore (2020)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epidemic Spread Tracking and Prediction</title>
+      <link>https://shreyagupta08.github.io/project/epidemic-spread/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/epidemic-spread/</guid>
+      <description>&lt;p&gt;In the SIH edition of 2019, I along with my five other teammates got an opportunity to be one of the top four teams selected from across India for Thermofischer&amp;rsquo;s problem statement in Asia&amp;rsquo;s biggest Hackathon, the Smart India Hackathon.&lt;/p&gt;
+&lt;p&gt;Under this project, we proposed a real-time epidemic mapping system which can work on the basis of trustworthy crowdsourced data to not only analyze the current epidemic but also prevent the future ones by providing intelligent estimates using state of the art machine learning and artificial intelligence techniques.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;flowchart.png&#34;&gt;&lt;img src=&#34;flowchart.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Flowchart of our proposed model&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Epidemiology is the study and analysis of the distribution and determinants of health and disease conditions in defined populations. With help of modern communication technologies, this can be done more effectively and faster than ever to yield extraordinary results in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzing&lt;/li&gt;
+&lt;li&gt;Containing&lt;/li&gt;
+&lt;li&gt;Predicting&lt;/li&gt;
+&lt;li&gt;Generating Real-time warnings and awareness on epidemic outbreaks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our proposed model and its source code are available &lt;a href=&#34;https://github.com/ShreyaGupta08/Epidemic-Spread-SIH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;IMG_2581.JPG&#34;&gt;&lt;img src=&#34;IMG_2581.JPG&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Our Super Cool Team &#39;2b||!2b&#39; after 3 hours of sleep in 2 days!&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voice Assistant for LinkedIn</title>
+      <link>https://shreyagupta08.github.io/project/voice-assistant/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/voice-assistant/</guid>
+      <description>&lt;p&gt;In January 2019, I had the opportunity to be in the top 20 teams to be selected for a two day hackathon - Wintathon by LinkedIn.
+The hackathon was hosted at their Bangalore office. For the hackathon, we decided to design a voice assistant for LinkedIn.&lt;/p&gt;
+&lt;p&gt;The code, presentation and demo for the project is available &lt;a href=&#34;https://github.com/ShreyaGupta08/Voice-Assistant-LinkedIn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;learnings&#34;&gt;Learnings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project taught me how to implement statistical NLP metrics&lt;/li&gt;
+&lt;li&gt;integrate the code while designing an application that is functional&lt;/li&gt;
+&lt;li&gt;be realistic while presenting a work in terms of not only the social impact but also on how well a model does what it is supposed to do.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMDb Movie Review Classifier using Word2Vec</title>
+      <link>https://shreyagupta08.github.io/project/movie-review-classifier/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/movie-review-classifier/</guid>
+      <description>&lt;p&gt;This was about Winter break of my third year (Dec, 2018) and I wanted to venture out in the field of Natural Language Processing.
+I took this project up from a basic Kaggle competition and used the sample solution in the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I imported the code into my local machine&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t run it but understood each line in a top to bottom fashion. From text pre-processing to the concept of word vectors, bag of words and finally word2vec.&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t just use that one list of code but also read blogs and watched videos on how these basic linguistics were implemented and conceptualised.&lt;/li&gt;
+&lt;li&gt;Finally, I wrote each line of code myself, ran it, de-bugged it, played with it and pushed it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;learnings&#34;&gt;Learnings:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project was aimed at understanding the foundations of NLP: tokens, pre-processing segments and the concept of vectors&lt;/li&gt;
+&lt;li&gt;I learned two different approaches to vectorise words and sentences : bag of words and word2vec&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These may seem insignificant in the longer run for the trivial concepts they are, but at the time of this project I was proud that instead of spending months on a course with no practical understanding of the fundamentals and implementation of a methodology, I instead learned the concepts in a practical way in just 14 days.&lt;/p&gt;
+&lt;p&gt;Project code is available &lt;a href=&#34;https://github.com/ShreyaGupta08/Movie-Reviewer-using-Word2Vec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

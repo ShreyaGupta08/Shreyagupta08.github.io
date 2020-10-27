@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/publication-type/0/</link>
+      <atom:link href="https://shreyagupta08.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Tue, 27 Oct 2020 17:50:48 +0530</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://shreyagupta08.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Rips</title>
+      <link>https://shreyagupta08.github.io/publication/rips/</link>
+      <pubDate>Tue, 27 Oct 2020 17:50:48 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/publication/rips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Software Engg Slr</title>
+      <link>https://shreyagupta08.github.io/publication/deep-learning-software-engg-slr/</link>
+      <pubDate>Tue, 27 Oct 2020 17:26:13 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/publication/deep-learning-software-engg-slr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Correlates Iitd</title>
+      <link>https://shreyagupta08.github.io/publication/neural-correlates-iitd/</link>
+      <pubDate>Tue, 27 Oct 2020 17:25:29 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/publication/neural-correlates-iitd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LinkedIn | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/linkedin/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/linkedin/index.xml" rel="self" type="application/rss+xml" />
+    <description>LinkedIn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>LinkedIn</title>
+      <link>https://shreyagupta08.github.io/tag/linkedin/</link>
+    </image>
+    
+    <item>
+      <title>Voice Assistant for LinkedIn</title>
+      <link>https://shreyagupta08.github.io/project/voice-assistant/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/voice-assistant/</guid>
+      <description>&lt;p&gt;In January 2019, I had the opportunity to be in the top 20 teams to be selected for a two day hackathon - Wintathon by LinkedIn.
+The hackathon was hosted at their Bangalore office. For the hackathon, we decided to design a voice assistant for LinkedIn.&lt;/p&gt;
+&lt;p&gt;The code, presentation and demo for the project is available &lt;a href=&#34;https://github.com/ShreyaGupta08/Voice-Assistant-LinkedIn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;learnings&#34;&gt;Learnings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project taught me how to implement statistical NLP metrics&lt;/li&gt;
+&lt;li&gt;integrate the code while designing an application that is functional&lt;/li&gt;
+&lt;li&gt;be realistic while presenting a work in terms of not only the social impact but also on how well a model does what it is supposed to do.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/talk/</link>
+      <atom:link href="https://shreyagupta08.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Tue, 27 Oct 2020 17:55:16 +0530</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://shreyagupta08.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Neuro Ml</title>
+      <link>https://shreyagupta08.github.io/talk/neuro-ml/</link>
+      <pubDate>Tue, 27 Oct 2020 17:55:16 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/neuro-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ama Tania Wu</title>
+      <link>https://shreyagupta08.github.io/talk/ama-tania-wu/</link>
+      <pubDate>Tue, 27 Oct 2020 17:55:06 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/ama-tania-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lcs2 Xlnet</title>
+      <link>https://shreyagupta08.github.io/talk/lcs2-xlnet/</link>
+      <pubDate>Tue, 27 Oct 2020 17:54:41 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/lcs2-xlnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smiles</title>
+      <link>https://shreyagupta08.github.io/talk/smiles/</link>
+      <pubDate>Tue, 27 Oct 2020 17:54:34 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/smiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunityrips</title>
+      <link>https://shreyagupta08.github.io/talk/opportunity-rips/</link>
+      <pubDate>Tue, 27 Oct 2020 17:52:59 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/opportunity-rips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wtm</title>
+      <link>https://shreyagupta08.github.io/talk/opportunity-wtm/</link>
+      <pubDate>Tue, 27 Oct 2020 17:52:47 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/opportunity-wtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practically ML</title>
+      <link>https://shreyagupta08.github.io/talk/practicallyml/</link>
+      <pubDate>Tue, 27 Oct 2020 17:51:44 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/talk/practicallyml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

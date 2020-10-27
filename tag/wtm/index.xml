@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WTM | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/wtm/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/wtm/index.xml" rel="self" type="application/rss+xml" />
+    <description>WTM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Sun, 01 Sep 2019 18:09:17 +0530</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>WTM</title>
+      <link>https://shreyagupta08.github.io/tag/wtm/</link>
+    </image>
+    
+    <item>
+      <title>Google Women Techmakers Experience 2019</title>
+      <link>https://shreyagupta08.github.io/post/wtm/</link>
+      <pubDate>Sun, 01 Sep 2019 18:09:17 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/post/wtm/</guid>
+      <description>&lt;h2 id=&#34;motivation-and-journey&#34;&gt;Motivation and Journey&lt;/h2&gt;
+&lt;h3 id=&#34;before-application&#34;&gt;(before application)&lt;/h3&gt;
+&lt;p&gt;I applied for WTM scholarship for the first time on 8th August 2018. It was during the application process I realised that I hadn’t done anything significant for the underrepresented community that I had always been so vocal about. Immediately after submitting the application I dropped a text to my college senior who I came to know was extensively involved in uplifting women-in-tech. I met her, and started volunteering in events held by Women Who Code Delhi and Women in Machine Learning and Data Science (WiMLDS) Delhi. Eventually I joined them, organised and delivered a talk, mentored a group of 7 students, and conducted a 4-part lecture series on Machine Learning from an implementation and practical point of view. In the year of 2019, I applied again.&lt;/p&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;In addition to resume, the application asked us for answers to three essay questions that asked us:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How we became interested in Computer Science and what our goals were in the field.&lt;/li&gt;
+&lt;li&gt;Activities we were involved to address challenges faced by the underrepresented groups in CS.&lt;/li&gt;
+&lt;li&gt;Technical report on a project we did.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This time around I was more confident writing answers to these questions. Additionally I got my answers reviewed by a past scholar and a very dear friend.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestion for Essay Answers:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Know your ‘why’ of applying.&lt;/li&gt;
+&lt;li&gt;Give concrete reasons, citing personal examples and try to stay away from cliche phrases.&lt;/li&gt;
+&lt;li&gt;Understand your journey and be genuine with what you write.&lt;/li&gt;
+&lt;li&gt;Use links as a proof of your words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-retreat-experience-and-selection-process&#34;&gt;Pre-Retreat Experience and Selection Process&lt;/h2&gt;
+&lt;p&gt;I was in Los Angeles, on 27 June 2019, when I received an email from them telling me I had made it through the first round. The next and final round consisted of a telephonic interview with a Googler in a couple of days. Scheduling the call was an eventful task because of the time difference but when the interview finally happened, it was a great 30 minute conversation. It was a casual one-on-one conversation. The conversation started with a ‘Tell-me-about-yourself’ and by the end we were discussing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How important organisations and communities are if we are to remove gender disparity&lt;/li&gt;
+&lt;li&gt;How to empower women to fight for equal rights in and outside workplaces and how we could not please everybody.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Googler asked me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The community work I was involved in&lt;/li&gt;
+&lt;li&gt;how I would keep a women-in-tech organisation afloat&lt;/li&gt;
+&lt;li&gt;how I encourage more women to participate and volunteer in the events&lt;/li&gt;
+&lt;li&gt;how I respond to guys who condemn these organisations that promote gender equality in STEM fields.&lt;/li&gt;
+&lt;li&gt;about my research project at IIT-Delhi and grasped the specifics very quickly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;She asked me how and why Women Techmakers was important for me. I told her it would give me an opportunity to connect with fellow scholars who have been doing exceptional work in this domain; would help me to take my regional organisations on a global scale, improving its outreach and learning from the fellow scholars. (After the retreat, I organised our first cross-country webinar with a scholar from Taiwan, something that has never happened in WTM APAC history, as told to me by my country Point Of Contact.) On 11 June 2019 I received an email titled ‘Congratulations! Women Techmakers Scholars Program 2019’. It was 2.11 am Pacific Time and sitting next to a fellow intern from Pakistan, I remember looking at him with bright eyes and simply turning my laptop screen towards him.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestions related to the interview:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Go through your resume, essay answers and other application material carefully before the interview.&lt;/li&gt;
+&lt;li&gt;Prepare answers for the customary questions before (this gives you confidence during your interview if you tend to get nervous for things you’ve been waiting for, like me). The generic questions include:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;“Describe yourself”&lt;/li&gt;
+&lt;li&gt;Your technical skills&lt;/li&gt;
+&lt;li&gt;Every activity/initiative you are undertaking/have done for the underrepresented community in tech&lt;/li&gt;
+&lt;li&gt;Why you? Why wtm?&lt;/li&gt;
+&lt;li&gt;What would you do at and after the retreat?&lt;/li&gt;
+&lt;li&gt;Do you have any questions for me?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Most importantly, talk about your journey. Give personal examples, be genuine and honest.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, don’t undersell yourself. Don’t be boastful either. State things you did, without thinking something is too small or too big! Be confident! You got this!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Detail about the retreat is available on my medium &lt;a href=&#34;https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;final-words&#34;&gt;FINAL WORDS&lt;/h2&gt;
+&lt;p&gt;The three days were absolutely amazing. I got to interact with some AMAZING Googlers and scholars, ask them questions about their work and talk about my work. It was not only fostering to know it is okay to not know but also to learn to talk about your achievements with pride instead of hiding them or feeling like an imposter. It has been more than a month since the retreat (at the time of writing this blog) and every time I see a post from a fellow scholar, it brings about a smile on my face of all the things they are doing! I am so proud of my girls. I have reached out to my fellow scholars for collaborations and so have they. After a long time it feels so great to be surrounded by people who talk about tech and life and deeply want to bring a change in the position of women and other minorities in the tech field.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2020’s WTM Applications are open. The link for the same is: &lt;a href=&#34;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&#34;&gt;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you are eligible, I will definitely suggest you to apply! Feel free to reach out to me at shreyaguptag [at] iiitd [dot] ac [dot] in for any help.&lt;/p&gt;
+&lt;p&gt;Slides on WTM from an event I presented &lt;a href=&#34;https://bit.ly/2FKJP4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+All the best! Thank you Google!&lt;/p&gt;
+&lt;h5 id=&#34;note-images-clicked-by-google-wtm-oc-subject-to-copyright&#34;&gt;Note: Images clicked by Google WTM OC subject to copyright.&lt;/h5&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

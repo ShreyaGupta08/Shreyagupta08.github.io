@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/author/shreya-gupta/</link>
+      <atom:link href="https://shreyagupta08.github.io/author/shreya-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shreya Gupta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>Shreya Gupta</title>
+      <link>https://shreyagupta08.github.io/author/shreya-gupta/</link>
+    </image>
+    
+    <item>
+      <title>Flare Detector for Reddit Data</title>
+      <link>https://shreyagupta08.github.io/project/flare-detector/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/flare-detector/</guid>
+      <description>&lt;p&gt;Flair detector is a web application, deployed using Heroku. The application can be seen &lt;a href=&#34;https://flair-detector-for-reddit.herokuapp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. It scrapes posts using the URL and then uses a Random Forest model to predict the flair of the post.&lt;/p&gt;
+&lt;p&gt;The project contains the code which performs the following functionalities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Scrapping posts from Indian Subreddit according to two methods: hottest posts and distributed posts in accordance with flairs&lt;/li&gt;
+&lt;li&gt;Exploratory Data Analysis: contains bar graphs and pie-charts to analyse data distributions for the attributes collected in step 1.&lt;/li&gt;
+&lt;li&gt;Textual Pre-Processing: pre-processes textual data for attributes like Title of the post and Content of the posts.&lt;/li&gt;
+&lt;li&gt;Building and contrasting different models: Builds, trains and validates four ML models, Naive Bayes, Random Forest, Logistic Regression and Multi-layer Perceptron using different features and then selects the feature-model pair performing the best.&lt;/li&gt;
+&lt;li&gt;Building Web Application: Contains the code to build a basic web application that takes as input a post url and displays the predicted flair of the post.&lt;/li&gt;
+&lt;li&gt;Hosts the app on Heroku.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My experimental log on how I designed the project along with the project code and documentation on how to run it in your local machine can be found &lt;a href=&#34;https://github.com/ShreyaGupta08/Flare-Detector-for-Reddit-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;good-things-about-the-project&#34;&gt;Good things about the project:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detailed Documentation&lt;/li&gt;
+&lt;li&gt;Prediction for Photography posts (generally)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scopes-of-improvement&#34;&gt;Scopes of improvement:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction. I realised it a little late that the 71% accuracy in using title as feature (and Random Forest as learning algorithm) is achieved because the title contained the flair in most cases. This was weird and has been mentioned in better detail in the Experimental log.ipynb file. Time remaining, I would have liked to find a way to:
+&lt;ul&gt;
+&lt;li&gt;incorporate comments, content and title with the title (and dealing with NaNs appropriately)&lt;/li&gt;
+&lt;li&gt;Used better learning algorithms&lt;/li&gt;
+&lt;li&gt;collected more data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;future-work&#34;&gt;Future work:&lt;/h3&gt;
+&lt;p&gt;In data exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;finding the number of posts in each flair for which content != None&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;finding the correlation between individual flair confusion matrix obtained from using content only with the number of samples obtained above&lt;/li&gt;
+&lt;li&gt;verifying if the unequal distribution is one of the reasons behind the low flair accuracy. if yes, checking if increasing the number of sample distribution had any effect on prediction scores. Then maybe, content would not have been as useless after all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;contrasting performance with unsupervised algorithms (like K-Means)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find flair-wise accuracy&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment and Measurement of Privacy Leak in Google&#39;s Ads Data Hub</title>
+      <link>https://shreyagupta08.github.io/project/rips/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/rips/</guid>
+      <description>&lt;p&gt;In the summers of 2019, I had the opportunity to work with a team of three talented researchers, with support of an academic advisor (Dr. Bao Wang) and with two industrial advisors (Vardhan Akopian and Scott Schneider), under the RIPS scholarship program conducted by Institute of Pure and Applied Mathematics, UCLA.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-rips-internship&#34;&gt;Introduction: RIPS Internship&lt;/h2&gt;
+&lt;p&gt;RIPS stands for Research in Industrial Projects for Students. It is an annual research program organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019. Application Procedure and pre-intern experience is available &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-application-2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and Personal Experience is covered &lt;a href=&#34;https://shreyagupta08.github.io/rips-internship-people/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-internship&#34;&gt;THE INTERNSHIP&lt;/h2&gt;
+&lt;p&gt;RIPS is a crossover between research and industrial experience. We are given an industrial problem and have to solve it using quantitative and qualitative research. Each year witnesses industrial companies bringing their problems. I had a chance to work, with my fellow teammates, for Google, LA.&lt;/p&gt;
+&lt;h2 id=&#34;problem-description&#34;&gt;Problem Description&lt;/h2&gt;
+&lt;p&gt;Google has an Ads Data Hub (ADH) for advertisers (customers) to analyze their ad campaigns (system diagram in figure 1).
+The advertisers can not see the raw data, for it can violate users&#39; privacy. Hence advertisers can query the database to generate useful analytics. ADH has its own privacy filters so that advertisers only obtain aggregate results. Despite those filters, leaks can still occur. Our goal was to develop a framework that can measure the risk of privacy leaks in Google&amp;rsquo;s ADH.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;adh_system_rips.png&#34;&gt;&lt;img src=&#34;adh_system_rips.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Figure 1: High level overview of working of ADH&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;We provided Google, LA with the necessary deliverables, designing a framework that gives a risk assessment score descriptive of how at risk each user is and how each attribute contributes to the risk. We call it the PIRATE Score (Probabilistic Identification Risk and Attacker Threat Estimate score). Paper for the same will soon be available.&lt;/p&gt;
+&lt;h2 id=&#34;tangibles&#34;&gt;Tangibles&lt;/h2&gt;
+&lt;p&gt;We presented our work to RIPS Colloquium. Our research was selected to represent RIPS at the annual CUR Sympoisum, held at Alexandria, Virginia, where we were selected to present a poster. The work received recognition and appreciation for its logical improvisation and technical extention of the previous state-of-the-art methodology [1]. Additionally, the work received Outstanding Poster Award at Joint Mathematics Meet 2020, held at Denver and Best Poster Award at &lt;a href=&#34;http://lcs2.iiitd.edu.in/acss2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACSS&lt;/a&gt; held at IIIT-Delhi. The project&amp;rsquo;s report is available on request.&lt;/p&gt;
+&lt;h3 id=&#34;slides-presentation-recording-and-project-report-available-on-request&#34;&gt;Slides, Presentation recording and project report available on request&lt;/h3&gt;
+&lt;p&gt;Feel free to email at shreyag [at] iiitd [dot] ac [dot] in - if you are interested in discussing the work, perusing the report or both.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Women Techmakers Experience 2019</title>
+      <link>https://shreyagupta08.github.io/post/wtm/</link>
+      <pubDate>Sun, 01 Sep 2019 18:09:17 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/post/wtm/</guid>
+      <description>&lt;h2 id=&#34;motivation-and-journey&#34;&gt;Motivation and Journey&lt;/h2&gt;
+&lt;h3 id=&#34;before-application&#34;&gt;(before application)&lt;/h3&gt;
+&lt;p&gt;I applied for WTM scholarship for the first time on 8th August 2018. It was during the application process I realised that I hadn’t done anything significant for the underrepresented community that I had always been so vocal about. Immediately after submitting the application I dropped a text to my college senior who I came to know was extensively involved in uplifting women-in-tech. I met her, and started volunteering in events held by Women Who Code Delhi and Women in Machine Learning and Data Science (WiMLDS) Delhi. Eventually I joined them, organised and delivered a talk, mentored a group of 7 students, and conducted a 4-part lecture series on Machine Learning from an implementation and practical point of view. In the year of 2019, I applied again.&lt;/p&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;In addition to resume, the application asked us for answers to three essay questions that asked us:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How we became interested in Computer Science and what our goals were in the field.&lt;/li&gt;
+&lt;li&gt;Activities we were involved to address challenges faced by the underrepresented groups in CS.&lt;/li&gt;
+&lt;li&gt;Technical report on a project we did.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This time around I was more confident writing answers to these questions. Additionally I got my answers reviewed by a past scholar and a very dear friend.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestion for Essay Answers:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Know your ‘why’ of applying.&lt;/li&gt;
+&lt;li&gt;Give concrete reasons, citing personal examples and try to stay away from cliche phrases.&lt;/li&gt;
+&lt;li&gt;Understand your journey and be genuine with what you write.&lt;/li&gt;
+&lt;li&gt;Use links as a proof of your words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-retreat-experience-and-selection-process&#34;&gt;Pre-Retreat Experience and Selection Process&lt;/h2&gt;
+&lt;p&gt;I was in Los Angeles, on 27 June 2019, when I received an email from them telling me I had made it through the first round. The next and final round consisted of a telephonic interview with a Googler in a couple of days. Scheduling the call was an eventful task because of the time difference but when the interview finally happened, it was a great 30 minute conversation. It was a casual one-on-one conversation. The conversation started with a ‘Tell-me-about-yourself’ and by the end we were discussing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How important organisations and communities are if we are to remove gender disparity&lt;/li&gt;
+&lt;li&gt;How to empower women to fight for equal rights in and outside workplaces and how we could not please everybody.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Googler asked me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The community work I was involved in&lt;/li&gt;
+&lt;li&gt;how I would keep a women-in-tech organisation afloat&lt;/li&gt;
+&lt;li&gt;how I encourage more women to participate and volunteer in the events&lt;/li&gt;
+&lt;li&gt;how I respond to guys who condemn these organisations that promote gender equality in STEM fields.&lt;/li&gt;
+&lt;li&gt;about my research project at IIT-Delhi and grasped the specifics very quickly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;She asked me how and why Women Techmakers was important for me. I told her it would give me an opportunity to connect with fellow scholars who have been doing exceptional work in this domain; would help me to take my regional organisations on a global scale, improving its outreach and learning from the fellow scholars. (After the retreat, I organised our first cross-country webinar with a scholar from Taiwan, something that has never happened in WTM APAC history, as told to me by my country Point Of Contact.) On 11 June 2019 I received an email titled ‘Congratulations! Women Techmakers Scholars Program 2019’. It was 2.11 am Pacific Time and sitting next to a fellow intern from Pakistan, I remember looking at him with bright eyes and simply turning my laptop screen towards him.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestions related to the interview:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Go through your resume, essay answers and other application material carefully before the interview.&lt;/li&gt;
+&lt;li&gt;Prepare answers for the customary questions before (this gives you confidence during your interview if you tend to get nervous for things you’ve been waiting for, like me). The generic questions include:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;“Describe yourself”&lt;/li&gt;
+&lt;li&gt;Your technical skills&lt;/li&gt;
+&lt;li&gt;Every activity/initiative you are undertaking/have done for the underrepresented community in tech&lt;/li&gt;
+&lt;li&gt;Why you? Why wtm?&lt;/li&gt;
+&lt;li&gt;What would you do at and after the retreat?&lt;/li&gt;
+&lt;li&gt;Do you have any questions for me?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Most importantly, talk about your journey. Give personal examples, be genuine and honest.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, don’t undersell yourself. Don’t be boastful either. State things you did, without thinking something is too small or too big! Be confident! You got this!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Detail about the retreat is available on my medium &lt;a href=&#34;https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;final-words&#34;&gt;FINAL WORDS&lt;/h2&gt;
+&lt;p&gt;The three days were absolutely amazing. I got to interact with some AMAZING Googlers and scholars, ask them questions about their work and talk about my work. It was not only fostering to know it is okay to not know but also to learn to talk about your achievements with pride instead of hiding them or feeling like an imposter. It has been more than a month since the retreat (at the time of writing this blog) and every time I see a post from a fellow scholar, it brings about a smile on my face of all the things they are doing! I am so proud of my girls. I have reached out to my fellow scholars for collaborations and so have they. After a long time it feels so great to be surrounded by people who talk about tech and life and deeply want to bring a change in the position of women and other minorities in the tech field.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2020’s WTM Applications are open. The link for the same is: &lt;a href=&#34;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&#34;&gt;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you are eligible, I will definitely suggest you to apply! Feel free to reach out to me at shreyaguptag [at] iiitd [dot] ac [dot] in for any help.&lt;/p&gt;
+&lt;p&gt;Slides on WTM from an event I presented &lt;a href=&#34;https://bit.ly/2FKJP4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+All the best! Thank you Google!&lt;/p&gt;
+&lt;h5 id=&#34;note-images-clicked-by-google-wtm-oc-subject-to-copyright&#34;&gt;Note: Images clicked by Google WTM OC subject to copyright.&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RIPS at IPAM, UCLA - Application and Pre-Intern Experience 2019</title>
+      <link>https://shreyagupta08.github.io/post/rips-experience/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/post/rips-experience/</guid>
+      <description>&lt;h2 id=&#34;introduction-rips-internship&#34;&gt;Introduction: RIPS Internship&lt;/h2&gt;
+&lt;p&gt;RIPS stands for Research in Industrial Projects for Students. It is an annual research program organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 2-3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019 and this post describes my application process and experience. The intern and personal experience will be covered in a separate post.&lt;/p&gt;
+&lt;h2 id=&#34;application-and-pre-selection-experience&#34;&gt;APPLICATION AND PRE-SELECTION EXPERIENCE:&lt;/h2&gt;
+&lt;p&gt;By the end of September I had secured two on-campus internships at Morgan Stanley and Adobe but something inside me was not satisfied. So I started applying for research internships abroad. It is especially tough in our culture because we don’t have any curated list so refer to this &lt;a href=&#34;https://github.com/himahuja/Research-Internships-for-Undergraduates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; which contains a non-exhaustive list of internships (some exclusively for Indian students). I was selective when applying for internships because I knew they are highly competitive and anyone having an aggregate CGPA of &amp;lt;9.5 (out of 10) has less chance securing some of them.&lt;/p&gt;
+&lt;p&gt;Fast forward to February, I was getting frustrated with not getting any results. I remember sitting in the library of IIT-D, waiting for my professor to return from his meeting to wrap up my paper with him. I had a couple of hours and decided to apply for one final intern. It was Research in Industrial Projects for Students, or RIPS, offered by Institute of Pure and Applied Mathematics (IPAM), residing in UCLA. I was interested in applying for it partly because mathematics and CS always appealed to me, and somewhat because I was torn between academia and industry and this internship seemed to be the perfect mix of both. I was also interested because my college senior (who I look up to) secured this internship the previous year and I remember him telling me how great his experience was (great would be an understatement).
+So there I was, sitting in the library, with my friend from FIITJEE days by my side, stressed and freakishly writing answers for which math and CS courses I had taken, which languages I had worked on (and by what scale) and describing the major projects I had worked on. I wasn’t required to write a Statement of Purpose but was asked to upload my college transcripts and 2 Letter of Recommendations (LORs) from my professors. I sat there for the entire day and filled the form up. I requested my professors to upload a LOR telling IPAM people how I am the best, most passionate and funny person everr! They were happy to (Big shoutout to Dr. Ruchika Malhotra, my guide).&lt;/p&gt;
+&lt;p&gt;Fast forward to February 28, I had come back from my bitter-sweet conference and had to leave for Kerala to participate in Smart India Hackathon with my awesome team. I woke up at 6 am, and as usual checked my email the first thing in the morning. But unlike most mornings where I only got mails from Grammarly, KDNuggets and Medium, this time I had an email that was titled ‘UCLA RIPS-Summer REU’ from a Dimi. It said they were interested in offering me an intern position at their esteemed RIPS program. I refused to believe. Few hours later, I was in metro with my luggage to board my flight when I opened my laptop and showed my friend the email. He made me believe I was crazy, and I finally accepted what had just happened and replied back.&lt;/p&gt;
+&lt;p&gt;Finally in second week of March (a night before my Operating Systems mid-term examination), just before I was going to bed, at 12.15 am, I received an email that said ‘RIPS LA 2019 Offer Letter’ and I remember going to my friends in adjacent room and showing them the email. The next few minutes were about shedding some tears and staying in disbelief. I told my two awesomesauce seniors, mentors and guides, and as always they made me realise how big it was and congratulated me in the best way possible! (In words of one of them: Right now, I am this person who is sitting in a Google meeting room smiling like crazies).&lt;/p&gt;
+&lt;p&gt;Key take-aways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Refer to this &lt;a href=&#34;https://github.com/himahuja/Research-Internships-for-Undergraduates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; and contribute to it if you find other internships.&lt;/li&gt;
+&lt;li&gt;Don’t apply everywhere. Be selective and invest your effort and time only in programs that align with your ideology.&lt;/li&gt;
+&lt;li&gt;Don’t stop yourself from applying just because you don’t think you have a shot (Imposter Syndrome). You have a shot. But only if you put yourself out there. Apply.&lt;/li&gt;
+&lt;li&gt;Have a good support system, progressive friends and consistent mindset.&lt;/li&gt;
+&lt;li&gt;If I can do it, so can you. You got this. Go and apply.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the &lt;a href=&#34;https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/?tab=overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to RIPS official page. The applicaions generally open in November and the deadline is usually February second week.&lt;/p&gt;
+&lt;p&gt;Hope this was helpful. If you have any other queries regarding the application process, contact me on my email id: shreyag [at] iiitd [dot] ac [dot] in&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;rips-group-picture.JPG&#34;&gt;&lt;img src=&#34;rips-group-picture.JPG&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;The amazing team&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;All the best!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travelling Respite</title>
+      <link>https://shreyagupta08.github.io/post/travelling-respite/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/post/travelling-respite/</guid>
+      <description>&lt;p&gt;For the past few years every time I travelled to a hill station: to rivers in the north east, in the gravel grounds and through the sea green Psangong lake of Leh, the green in Kashmir, I’ve wondered what we are trading in our big urban clogged up cities. I’ve dreamt living a life in a town dreams are made of.&lt;/p&gt;
+&lt;p&gt;It was only until the recent trip to my maternal grandparents house that I realised what the temptation was all about. When I saw my mother unite with her two sisters, one elder another younger, at the midnight between the elder’s birthday the past day and my mother’s that day, all there by the absolute token of coincidence and some persistence with their husbands, cake smudged on their faces, some deservedly, others forcefully and for the symmetry, I caught, as I clicked pictures, the deep rooted reason. Between working their lives to make their parents proud and never let their children see what they had to, and watching their lives take disparate tangents along the process, they were stealing a moment. Stealing a moment between past’s unsynchronisation and future’s uncertainty.&lt;/p&gt;
+&lt;p&gt;Travelling in the bus, squeezed, watching a documentary on Netflix, acd prs the internet goes down, I look up and right, outside the nearest window, to gauge the green paddy fields and a light drizzle. Instantaneously amongst serious lines, a smile appeared, almost reflexivily. I realised this was another moment I stole.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is for these little moments that we steal in our everyday lives or every once in a while, that makes us complete.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Watching an episode of friends when you have jam-packed deadlines to meet; sneaking out of your home, picking your best friend along the way and going to your favourite stall on the street when you have an important test coming up; a casual walk in the park; stopping to look at a baby with bubbly eyes for 5 minutes straight; helping an acquaintance out and laughing on something stupid; a 3 hour ‘power nap’, these are the little moments that make life worth living.&lt;/p&gt;
+&lt;p&gt;When was the last time you stole a moment?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of Neural Correlates of Face Recognition Using Machine Learning Approach</title>
+      <link>https://shreyagupta08.github.io/project/iitd/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/iitd/</guid>
+      <description>&lt;p&gt;In the summers of 2018, I had the opportunity to work under Dr. Tapan Gandhi, IIT Delhi, in his Neuroscience Lab, on using machine learning to design an Artificial Face Recognition model that worked similar to how a human brain recognises faces.&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+&lt;p&gt;Existing face detection algorithms rely on massive amounts of data and perform poorly with angle and light variations [1]. Human brain, on the contrary, faces none of the above problems. Thence, using computational neuroscience to process MEG recordings of users, and support-vector machines for classification in MATLAB, I found responsive sensors and concentrated timestamps during which identification occurred.&lt;/p&gt;
+&lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
+&lt;p&gt;We found that human brain identifies a face between the first 120-240 ms of seeing it. Additionally, the most responsive sensors are located near occipitotemporal and occipitoparietal lobes and few in frontal lobe. Thus, by identifying the active sensors and the differentiating time stamps, the work was able to filter out noisy and less effective sensors and time slots. This mitigates the computational costs of the model built for face recognition by providing researchers the channels and slots to focus their research on.&lt;/p&gt;
+&lt;p&gt;The groundwork trims the active timestamp range by more than half of the existing state-of-the-art algorithm [2]. I presented this work at the ​IEEE International Symposium ISCMM 2019 (figure 1) ​and published it in the Scopus indexed ​Advances in Intelligent Systems and Computing ​(AISC) [3].&lt;/p&gt;
+&lt;h2 id=&#34;future-work&#34;&gt;Future Work&lt;/h2&gt;
+&lt;p&gt;Using eye-tracking, the findings of this paper can be extended to extract features captured by the eyes during the mentioned time stamps (124–240 ms) which enabled brain to detect and classify faces.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From this project, I learned the importance of pragmatic pre-processing and coding efficient solutions for real-life high-dimensional data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;presentation.png&#34;&gt;&lt;img src=&#34;presentation.png&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Conference Presentation Link: &lt;a href=&#34;https://bit.ly/2r6kw9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/2r6kw9n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Khurana, P., Sharma, A., Singh, SN., Singh, P.K.: A survey on object recognition and segmentation techniques. In: 3rd International Conference on Computing for Sustainable Global Development (INDIACom), pp. 3822–3826 (2016)&lt;/p&gt;
+&lt;p&gt;[2] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+&lt;p&gt;[3] Gupta, S., Gandhi, T.: Identification of Neural Correlates of Face Recognition Using Machine Learning Approach. Advances in Intelligent Systems and Computing, vol 992. Springer, Singapore (2020)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epidemic Spread Tracking and Prediction</title>
+      <link>https://shreyagupta08.github.io/project/epidemic-spread/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/epidemic-spread/</guid>
+      <description>&lt;p&gt;In the SIH edition of 2019, I along with my five other teammates got an opportunity to be one of the top four teams selected from across India for Thermofischer&amp;rsquo;s problem statement in Asia&amp;rsquo;s biggest Hackathon, the Smart India Hackathon.&lt;/p&gt;
+&lt;p&gt;Under this project, we proposed a real-time epidemic mapping system which can work on the basis of trustworthy crowdsourced data to not only analyze the current epidemic but also prevent the future ones by providing intelligent estimates using state of the art machine learning and artificial intelligence techniques.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;flowchart.png&#34;&gt;&lt;img src=&#34;flowchart.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Flowchart of our proposed model&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Epidemiology is the study and analysis of the distribution and determinants of health and disease conditions in defined populations. With help of modern communication technologies, this can be done more effectively and faster than ever to yield extraordinary results in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzing&lt;/li&gt;
+&lt;li&gt;Containing&lt;/li&gt;
+&lt;li&gt;Predicting&lt;/li&gt;
+&lt;li&gt;Generating Real-time warnings and awareness on epidemic outbreaks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our proposed model and its source code are available &lt;a href=&#34;https://github.com/ShreyaGupta08/Epidemic-Spread-SIH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;IMG_2581.JPG&#34;&gt;&lt;img src=&#34;IMG_2581.JPG&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Our Super Cool Team &#39;2b||!2b&#39; after 3 hours of sleep in 2 days!&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMDb Movie Review Classifier using Word2Vec</title>
+      <link>https://shreyagupta08.github.io/project/movie-review-classifier/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/movie-review-classifier/</guid>
+      <description>&lt;p&gt;This was about Winter break of my third year (Dec, 2018) and I wanted to venture out in the field of Natural Language Processing.
+I took this project up from a basic Kaggle competition and used the sample solution in the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I imported the code into my local machine&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t run it but understood each line in a top to bottom fashion. From text pre-processing to the concept of word vectors, bag of words and finally word2vec.&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t just use that one list of code but also read blogs and watched videos on how these basic linguistics were implemented and conceptualised.&lt;/li&gt;
+&lt;li&gt;Finally, I wrote each line of code myself, ran it, de-bugged it, played with it and pushed it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;learnings&#34;&gt;Learnings:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project was aimed at understanding the foundations of NLP: tokens, pre-processing segments and the concept of vectors&lt;/li&gt;
+&lt;li&gt;I learned two different approaches to vectorise words and sentences : bag of words and word2vec&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These may seem insignificant in the longer run for the trivial concepts they are, but at the time of this project I was proud that instead of spending months on a course with no practical understanding of the fundamentals and implementation of a methodology, I instead learned the concepts in a practical way in just 14 days.&lt;/p&gt;
+&lt;p&gt;Project code is available &lt;a href=&#34;https://github.com/ShreyaGupta08/Movie-Reviewer-using-Word2Vec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

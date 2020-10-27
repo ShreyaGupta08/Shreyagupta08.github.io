@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/natural-language-processing/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>natural language processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>natural language processing</title>
+      <link>https://shreyagupta08.github.io/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>IMDb Movie Review Classifier using Word2Vec</title>
+      <link>https://shreyagupta08.github.io/project/movie-review-classifier/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/movie-review-classifier/</guid>
+      <description>&lt;p&gt;This was about Winter break of my third year (Dec, 2018) and I wanted to venture out in the field of Natural Language Processing.
+I took this project up from a basic Kaggle competition and used the sample solution in the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I imported the code into my local machine&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t run it but understood each line in a top to bottom fashion. From text pre-processing to the concept of word vectors, bag of words and finally word2vec.&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t just use that one list of code but also read blogs and watched videos on how these basic linguistics were implemented and conceptualised.&lt;/li&gt;
+&lt;li&gt;Finally, I wrote each line of code myself, ran it, de-bugged it, played with it and pushed it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;learnings&#34;&gt;Learnings:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This project was aimed at understanding the foundations of NLP: tokens, pre-processing segments and the concept of vectors&lt;/li&gt;
+&lt;li&gt;I learned two different approaches to vectorise words and sentences : bag of words and word2vec&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These may seem insignificant in the longer run for the trivial concepts they are, but at the time of this project I was proud that instead of spending months on a course with no practical understanding of the fundamentals and implementation of a methodology, I instead learned the concepts in a practical way in just 14 days.&lt;/p&gt;
+&lt;p&gt;Project code is available &lt;a href=&#34;https://github.com/ShreyaGupta08/Movie-Reviewer-using-Word2Vec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

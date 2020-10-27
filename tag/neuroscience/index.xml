@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neuroscience | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/neuroscience/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>neuroscience</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>neuroscience</title>
+      <link>https://shreyagupta08.github.io/tag/neuroscience/</link>
+    </image>
+    
+    <item>
+      <title>Identification of Neural Correlates of Face Recognition Using Machine Learning Approach</title>
+      <link>https://shreyagupta08.github.io/project/iitd/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/iitd/</guid>
+      <description>&lt;p&gt;In the summers of 2018, I had the opportunity to work under Dr. Tapan Gandhi, IIT Delhi, in his Neuroscience Lab, on using machine learning to design an Artificial Face Recognition model that worked similar to how a human brain recognises faces.&lt;/p&gt;
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+&lt;p&gt;Existing face detection algorithms rely on massive amounts of data and perform poorly with angle and light variations [1]. Human brain, on the contrary, faces none of the above problems. Thence, using computational neuroscience to process MEG recordings of users, and support-vector machines for classification in MATLAB, I found responsive sensors and concentrated timestamps during which identification occurred.&lt;/p&gt;
+&lt;h2 id=&#34;findings&#34;&gt;Findings&lt;/h2&gt;
+&lt;p&gt;We found that human brain identifies a face between the first 120-240 ms of seeing it. Additionally, the most responsive sensors are located near occipitotemporal and occipitoparietal lobes and few in frontal lobe. Thus, by identifying the active sensors and the differentiating time stamps, the work was able to filter out noisy and less effective sensors and time slots. This mitigates the computational costs of the model built for face recognition by providing researchers the channels and slots to focus their research on.&lt;/p&gt;
+&lt;p&gt;The groundwork trims the active timestamp range by more than half of the existing state-of-the-art algorithm [2]. I presented this work at the ​IEEE International Symposium ISCMM 2019 (figure 1) ​and published it in the Scopus indexed ​Advances in Intelligent Systems and Computing ​(AISC) [3].&lt;/p&gt;
+&lt;h2 id=&#34;future-work&#34;&gt;Future Work&lt;/h2&gt;
+&lt;p&gt;Using eye-tracking, the findings of this paper can be extended to extract features captured by the eyes during the mentioned time stamps (124–240 ms) which enabled brain to detect and classify faces.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;From this project, I learned the importance of pragmatic pre-processing and coding efficient solutions for real-life high-dimensional data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;presentation.png&#34;&gt;&lt;img src=&#34;presentation.png&#34;&gt;&lt;/a&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;Conference Presentation Link: &lt;a href=&#34;https://bit.ly/2r6kw9n&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/2r6kw9n&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;p&gt;[1] Khurana, P., Sharma, A., Singh, SN., Singh, P.K.: A survey on object recognition and segmentation techniques. In: 3rd International Conference on Computing for Sustainable Global Development (INDIACom), pp. 3822–3826 (2016)&lt;/p&gt;
+&lt;p&gt;[2] Streit, M., Dammers, J., Simsek-Kraues, S., Brinkmeyer, J., Wolwer, W., Ioannides, A.: Time course of regional brain activations during facial emotion recognition in humans. Neurosci. Lett. 342(12), 101–104 (2003)&lt;/p&gt;
+&lt;p&gt;[3] Gupta, S., Gandhi, T.: Identification of Neural Correlates of Face Recognition Using Machine Learning Approach. Advances in Intelligent Systems and Computing, vol 992. Springer, Singapore (2020)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

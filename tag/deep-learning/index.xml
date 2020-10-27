@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/deep-learning/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>deep learning</title>
+      <link>https://shreyagupta08.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Epidemic Spread Tracking and Prediction</title>
+      <link>https://shreyagupta08.github.io/project/epidemic-spread/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/epidemic-spread/</guid>
+      <description>&lt;p&gt;In the SIH edition of 2019, I along with my five other teammates got an opportunity to be one of the top four teams selected from across India for Thermofischer&amp;rsquo;s problem statement in Asia&amp;rsquo;s biggest Hackathon, the Smart India Hackathon.&lt;/p&gt;
+&lt;p&gt;Under this project, we proposed a real-time epidemic mapping system which can work on the basis of trustworthy crowdsourced data to not only analyze the current epidemic but also prevent the future ones by providing intelligent estimates using state of the art machine learning and artificial intelligence techniques.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&#34;flowchart.png&#34;&gt;&lt;img src=&#34;flowchart.png&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Flowchart of our proposed model&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Epidemiology is the study and analysis of the distribution and determinants of health and disease conditions in defined populations. With help of modern communication technologies, this can be done more effectively and faster than ever to yield extraordinary results in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzing&lt;/li&gt;
+&lt;li&gt;Containing&lt;/li&gt;
+&lt;li&gt;Predicting&lt;/li&gt;
+&lt;li&gt;Generating Real-time warnings and awareness on epidemic outbreaks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Our proposed model and its source code are available &lt;a href=&#34;https://github.com/ShreyaGupta08/Epidemic-Spread-SIH&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;IMG_2581.JPG&#34;&gt;&lt;img src=&#34;IMG_2581.JPG&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Our Super Cool Team &#39;2b||!2b&#39; after 3 hours of sleep in 2 days!&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

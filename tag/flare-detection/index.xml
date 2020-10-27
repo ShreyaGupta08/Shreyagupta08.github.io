@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flare detection | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/flare-detection/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/flare-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>flare detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>flare detection</title>
+      <link>https://shreyagupta08.github.io/tag/flare-detection/</link>
+    </image>
+    
+    <item>
+      <title>Flare Detector for Reddit Data</title>
+      <link>https://shreyagupta08.github.io/project/flare-detector/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/project/flare-detector/</guid>
+      <description>&lt;p&gt;Flair detector is a web application, deployed using Heroku. The application can be seen &lt;a href=&#34;https://flair-detector-for-reddit.herokuapp.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. It scrapes posts using the URL and then uses a Random Forest model to predict the flair of the post.&lt;/p&gt;
+&lt;p&gt;The project contains the code which performs the following functionalities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Scrapping posts from Indian Subreddit according to two methods: hottest posts and distributed posts in accordance with flairs&lt;/li&gt;
+&lt;li&gt;Exploratory Data Analysis: contains bar graphs and pie-charts to analyse data distributions for the attributes collected in step 1.&lt;/li&gt;
+&lt;li&gt;Textual Pre-Processing: pre-processes textual data for attributes like Title of the post and Content of the posts.&lt;/li&gt;
+&lt;li&gt;Building and contrasting different models: Builds, trains and validates four ML models, Naive Bayes, Random Forest, Logistic Regression and Multi-layer Perceptron using different features and then selects the feature-model pair performing the best.&lt;/li&gt;
+&lt;li&gt;Building Web Application: Contains the code to build a basic web application that takes as input a post url and displays the predicted flair of the post.&lt;/li&gt;
+&lt;li&gt;Hosts the app on Heroku.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My experimental log on how I designed the project along with the project code and documentation on how to run it in your local machine can be found &lt;a href=&#34;https://github.com/ShreyaGupta08/Flare-Detector-for-Reddit-Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;good-things-about-the-project&#34;&gt;Good things about the project:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Detailed Documentation&lt;/li&gt;
+&lt;li&gt;Prediction for Photography posts (generally)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;scopes-of-improvement&#34;&gt;Scopes of improvement:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Prediction. I realised it a little late that the 71% accuracy in using title as feature (and Random Forest as learning algorithm) is achieved because the title contained the flair in most cases. This was weird and has been mentioned in better detail in the Experimental log.ipynb file. Time remaining, I would have liked to find a way to:
+&lt;ul&gt;
+&lt;li&gt;incorporate comments, content and title with the title (and dealing with NaNs appropriately)&lt;/li&gt;
+&lt;li&gt;Used better learning algorithms&lt;/li&gt;
+&lt;li&gt;collected more data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;future-work&#34;&gt;Future work:&lt;/h3&gt;
+&lt;p&gt;In data exploration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;finding the number of posts in each flair for which content != None&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;finding the correlation between individual flair confusion matrix obtained from using content only with the number of samples obtained above&lt;/li&gt;
+&lt;li&gt;verifying if the unequal distribution is one of the reasons behind the low flair accuracy. if yes, checking if increasing the number of sample distribution had any effect on prediction scores. Then maybe, content would not have been as useless after all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;contrasting performance with unsupervised algorithms (like K-Means)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find flair-wise accuracy&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

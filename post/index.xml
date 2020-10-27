@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/post/</link>
+      <atom:link href="https://shreyagupta08.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Sun, 01 Sep 2019 18:09:17 +0530</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://shreyagupta08.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Google Women Techmakers Experience 2019</title>
+      <link>https://shreyagupta08.github.io/post/wtm/</link>
+      <pubDate>Sun, 01 Sep 2019 18:09:17 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/post/wtm/</guid>
+      <description>&lt;h2 id=&#34;motivation-and-journey&#34;&gt;Motivation and Journey&lt;/h2&gt;
+&lt;h3 id=&#34;before-application&#34;&gt;(before application)&lt;/h3&gt;
+&lt;p&gt;I applied for WTM scholarship for the first time on 8th August 2018. It was during the application process I realised that I hadn’t done anything significant for the underrepresented community that I had always been so vocal about. Immediately after submitting the application I dropped a text to my college senior who I came to know was extensively involved in uplifting women-in-tech. I met her, and started volunteering in events held by Women Who Code Delhi and Women in Machine Learning and Data Science (WiMLDS) Delhi. Eventually I joined them, organised and delivered a talk, mentored a group of 7 students, and conducted a 4-part lecture series on Machine Learning from an implementation and practical point of view. In the year of 2019, I applied again.&lt;/p&gt;
+&lt;h2 id=&#34;application-process&#34;&gt;Application Process&lt;/h2&gt;
+&lt;p&gt;In addition to resume, the application asked us for answers to three essay questions that asked us:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How we became interested in Computer Science and what our goals were in the field.&lt;/li&gt;
+&lt;li&gt;Activities we were involved to address challenges faced by the underrepresented groups in CS.&lt;/li&gt;
+&lt;li&gt;Technical report on a project we did.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This time around I was more confident writing answers to these questions. Additionally I got my answers reviewed by a past scholar and a very dear friend.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestion for Essay Answers:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Know your ‘why’ of applying.&lt;/li&gt;
+&lt;li&gt;Give concrete reasons, citing personal examples and try to stay away from cliche phrases.&lt;/li&gt;
+&lt;li&gt;Understand your journey and be genuine with what you write.&lt;/li&gt;
+&lt;li&gt;Use links as a proof of your words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pre-retreat-experience-and-selection-process&#34;&gt;Pre-Retreat Experience and Selection Process&lt;/h2&gt;
+&lt;p&gt;I was in Los Angeles, on 27 June 2019, when I received an email from them telling me I had made it through the first round. The next and final round consisted of a telephonic interview with a Googler in a couple of days. Scheduling the call was an eventful task because of the time difference but when the interview finally happened, it was a great 30 minute conversation. It was a casual one-on-one conversation. The conversation started with a ‘Tell-me-about-yourself’ and by the end we were discussing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How important organisations and communities are if we are to remove gender disparity&lt;/li&gt;
+&lt;li&gt;How to empower women to fight for equal rights in and outside workplaces and how we could not please everybody.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Googler asked me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The community work I was involved in&lt;/li&gt;
+&lt;li&gt;how I would keep a women-in-tech organisation afloat&lt;/li&gt;
+&lt;li&gt;how I encourage more women to participate and volunteer in the events&lt;/li&gt;
+&lt;li&gt;how I respond to guys who condemn these organisations that promote gender equality in STEM fields.&lt;/li&gt;
+&lt;li&gt;about my research project at IIT-Delhi and grasped the specifics very quickly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;She asked me how and why Women Techmakers was important for me. I told her it would give me an opportunity to connect with fellow scholars who have been doing exceptional work in this domain; would help me to take my regional organisations on a global scale, improving its outreach and learning from the fellow scholars. (After the retreat, I organised our first cross-country webinar with a scholar from Taiwan, something that has never happened in WTM APAC history, as told to me by my country Point Of Contact.) On 11 June 2019 I received an email titled ‘Congratulations! Women Techmakers Scholars Program 2019’. It was 2.11 am Pacific Time and sitting next to a fellow intern from Pakistan, I remember looking at him with bright eyes and simply turning my laptop screen towards him.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Suggestions related to the interview:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Go through your resume, essay answers and other application material carefully before the interview.&lt;/li&gt;
+&lt;li&gt;Prepare answers for the customary questions before (this gives you confidence during your interview if you tend to get nervous for things you’ve been waiting for, like me). The generic questions include:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;“Describe yourself”&lt;/li&gt;
+&lt;li&gt;Your technical skills&lt;/li&gt;
+&lt;li&gt;Every activity/initiative you are undertaking/have done for the underrepresented community in tech&lt;/li&gt;
+&lt;li&gt;Why you? Why wtm?&lt;/li&gt;
+&lt;li&gt;What would you do at and after the retreat?&lt;/li&gt;
+&lt;li&gt;Do you have any questions for me?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Most importantly, talk about your journey. Give personal examples, be genuine and honest.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Finally, don’t undersell yourself. Don’t be boastful either. State things you did, without thinking something is too small or too big! Be confident! You got this!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Detail about the retreat is available on my medium &lt;a href=&#34;https://medium.com/climb-dtu/google-women-techmakers-experience-2019-a9b1d0e19877&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;final-words&#34;&gt;FINAL WORDS&lt;/h2&gt;
+&lt;p&gt;The three days were absolutely amazing. I got to interact with some AMAZING Googlers and scholars, ask them questions about their work and talk about my work. It was not only fostering to know it is okay to not know but also to learn to talk about your achievements with pride instead of hiding them or feeling like an imposter. It has been more than a month since the retreat (at the time of writing this blog) and every time I see a post from a fellow scholar, it brings about a smile on my face of all the things they are doing! I am so proud of my girls. I have reached out to my fellow scholars for collaborations and so have they. After a long time it feels so great to be surrounded by people who talk about tech and life and deeply want to bring a change in the position of women and other minorities in the tech field.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2020’s WTM Applications are open. The link for the same is: &lt;a href=&#34;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&#34;&gt;http://services.google.cn/fb/forms/womentechmakersscholarsprogram2020-apac/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you are eligible, I will definitely suggest you to apply! Feel free to reach out to me at shreyaguptag [at] iiitd [dot] ac [dot] in for any help.&lt;/p&gt;
+&lt;p&gt;Slides on WTM from an event I presented &lt;a href=&#34;https://bit.ly/2FKJP4Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;
+All the best! Thank you Google!&lt;/p&gt;
+&lt;h5 id=&#34;note-images-clicked-by-google-wtm-oc-subject-to-copyright&#34;&gt;Note: Images clicked by Google WTM OC subject to copyright.&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RIPS at IPAM, UCLA - Application and Pre-Intern Experience 2019</title>
+      <link>https://shreyagupta08.github.io/post/rips-experience/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/post/rips-experience/</guid>
+      <description>&lt;h2 id=&#34;introduction-rips-internship&#34;&gt;Introduction: RIPS Internship&lt;/h2&gt;
+&lt;p&gt;RIPS stands for Research in Industrial Projects for Students. It is an annual research program organised by the Institute of Pure and Applied Mathematics (IPAM) of UCLA. With an acceptance rate of 2-3%, it hosts every year 36 interns who work on 9 industrial projects in groups of 4. I was one of the interns selected for the year 2019 and this post describes my application process and experience. The intern and personal experience will be covered in a separate post.&lt;/p&gt;
+&lt;h2 id=&#34;application-and-pre-selection-experience&#34;&gt;APPLICATION AND PRE-SELECTION EXPERIENCE:&lt;/h2&gt;
+&lt;p&gt;By the end of September I had secured two on-campus internships at Morgan Stanley and Adobe but something inside me was not satisfied. So I started applying for research internships abroad. It is especially tough in our culture because we don’t have any curated list so refer to this &lt;a href=&#34;https://github.com/himahuja/Research-Internships-for-Undergraduates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; which contains a non-exhaustive list of internships (some exclusively for Indian students). I was selective when applying for internships because I knew they are highly competitive and anyone having an aggregate CGPA of &amp;lt;9.5 (out of 10) has less chance securing some of them.&lt;/p&gt;
+&lt;p&gt;Fast forward to February, I was getting frustrated with not getting any results. I remember sitting in the library of IIT-D, waiting for my professor to return from his meeting to wrap up my paper with him. I had a couple of hours and decided to apply for one final intern. It was Research in Industrial Projects for Students, or RIPS, offered by Institute of Pure and Applied Mathematics (IPAM), residing in UCLA. I was interested in applying for it partly because mathematics and CS always appealed to me, and somewhat because I was torn between academia and industry and this internship seemed to be the perfect mix of both. I was also interested because my college senior (who I look up to) secured this internship the previous year and I remember him telling me how great his experience was (great would be an understatement).
+So there I was, sitting in the library, with my friend from FIITJEE days by my side, stressed and freakishly writing answers for which math and CS courses I had taken, which languages I had worked on (and by what scale) and describing the major projects I had worked on. I wasn’t required to write a Statement of Purpose but was asked to upload my college transcripts and 2 Letter of Recommendations (LORs) from my professors. I sat there for the entire day and filled the form up. I requested my professors to upload a LOR telling IPAM people how I am the best, most passionate and funny person everr! They were happy to (Big shoutout to Dr. Ruchika Malhotra, my guide).&lt;/p&gt;
+&lt;p&gt;Fast forward to February 28, I had come back from my bitter-sweet conference and had to leave for Kerala to participate in Smart India Hackathon with my awesome team. I woke up at 6 am, and as usual checked my email the first thing in the morning. But unlike most mornings where I only got mails from Grammarly, KDNuggets and Medium, this time I had an email that was titled ‘UCLA RIPS-Summer REU’ from a Dimi. It said they were interested in offering me an intern position at their esteemed RIPS program. I refused to believe. Few hours later, I was in metro with my luggage to board my flight when I opened my laptop and showed my friend the email. He made me believe I was crazy, and I finally accepted what had just happened and replied back.&lt;/p&gt;
+&lt;p&gt;Finally in second week of March (a night before my Operating Systems mid-term examination), just before I was going to bed, at 12.15 am, I received an email that said ‘RIPS LA 2019 Offer Letter’ and I remember going to my friends in adjacent room and showing them the email. The next few minutes were about shedding some tears and staying in disbelief. I told my two awesomesauce seniors, mentors and guides, and as always they made me realise how big it was and congratulated me in the best way possible! (In words of one of them: Right now, I am this person who is sitting in a Google meeting room smiling like crazies).&lt;/p&gt;
+&lt;p&gt;Key take-aways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Refer to this &lt;a href=&#34;https://github.com/himahuja/Research-Internships-for-Undergraduates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; and contribute to it if you find other internships.&lt;/li&gt;
+&lt;li&gt;Don’t apply everywhere. Be selective and invest your effort and time only in programs that align with your ideology.&lt;/li&gt;
+&lt;li&gt;Don’t stop yourself from applying just because you don’t think you have a shot (Imposter Syndrome). You have a shot. But only if you put yourself out there. Apply.&lt;/li&gt;
+&lt;li&gt;Have a good support system, progressive friends and consistent mindset.&lt;/li&gt;
+&lt;li&gt;If I can do it, so can you. You got this. Go and apply.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the &lt;a href=&#34;https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2019/?tab=overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to RIPS official page. The applicaions generally open in November and the deadline is usually February second week.&lt;/p&gt;
+&lt;p&gt;Hope this was helpful. If you have any other queries regarding the application process, contact me on my email id: shreyag [at] iiitd [dot] ac [dot] in&lt;/p&gt;
+&lt;!-- &lt;figure&gt;
+	&lt;a href=&#34;rips-group-picture.JPG&#34;&gt;&lt;img src=&#34;rips-group-picture.JPG&#34;&gt;&lt;/a&gt;
+	&lt;figcaption&gt;The amazing team&lt;/figcaption&gt;
+&lt;/figure&gt; --&gt;
+&lt;p&gt;All the best!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travelling Respite</title>
+      <link>https://shreyagupta08.github.io/post/travelling-respite/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://shreyagupta08.github.io/post/travelling-respite/</guid>
+      <description>&lt;p&gt;For the past few years every time I travelled to a hill station: to rivers in the north east, in the gravel grounds and through the sea green Psangong lake of Leh, the green in Kashmir, I’ve wondered what we are trading in our big urban clogged up cities. I’ve dreamt living a life in a town dreams are made of.&lt;/p&gt;
+&lt;p&gt;It was only until the recent trip to my maternal grandparents house that I realised what the temptation was all about. When I saw my mother unite with her two sisters, one elder another younger, at the midnight between the elder’s birthday the past day and my mother’s that day, all there by the absolute token of coincidence and some persistence with their husbands, cake smudged on their faces, some deservedly, others forcefully and for the symmetry, I caught, as I clicked pictures, the deep rooted reason. Between working their lives to make their parents proud and never let their children see what they had to, and watching their lives take disparate tangents along the process, they were stealing a moment. Stealing a moment between past’s unsynchronisation and future’s uncertainty.&lt;/p&gt;
+&lt;p&gt;Travelling in the bus, squeezed, watching a documentary on Netflix, acd prs the internet goes down, I look up and right, outside the nearest window, to gauge the green paddy fields and a light drizzle. Instantaneously amongst serious lines, a smile appeared, almost reflexivily. I realised this was another moment I stole.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is for these little moments that we steal in our everyday lives or every once in a while, that makes us complete.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Watching an episode of friends when you have jam-packed deadlines to meet; sneaking out of your home, picking your best friend along the way and going to your favourite stall on the street when you have an important test coming up; a casual walk in the park; stopping to look at a baby with bubbly eyes for 5 minutes straight; helping an acquaintance out and laughing on something stupid; a 3 hour ‘power nap’, these are the little moments that make life worth living.&lt;/p&gt;
+&lt;p&gt;When was the last time you stole a moment?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

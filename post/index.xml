@@ -5,12 +5,31 @@
     <link>https://shreyagupta08.github.io/post/</link>
       <atom:link href="https://shreyagupta08.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Sun, 01 Sep 2019 18:09:17 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Thu, 29 Oct 2020 12:58:52 +0530</lastBuildDate>
     <image>
       <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://shreyagupta08.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Creating a New Synactic Parser?</title>
+      <link>https://shreyagupta08.github.io/post/new-parser/</link>
+      <pubDate>Thu, 29 Oct 2020 12:58:52 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/post/new-parser/</guid>
+      <description>&lt;p&gt;Working on my last project on claim detection in online text I hypothesized using syntactic information in addition to semantic information given the proven and claimed importance of sentence structure in formation of a claim. While generating POS and dependency trees I realised a gap we have so blissfully been ignorant of.&lt;/p&gt;
+&lt;p&gt;Before the advent of Deep Learning major NLP tasks used syntactic parsers. They produced parsings like POS tags, Dependency trees and Constituency trees. With the rise of this black box Deep Learning more tasks could be magically solved. Since these black boxes preceeded by embedding methods like BERT need meaningful inputs like sentences, dependency and consitutency trees find it difficult to be constituted in a meaningful sentence-like form. Now we have a tree that contains a lot of useful syntactic information that is inherently important for any machine to learn natural language AND we have this revolutionary black box (DL) BUT we do not have anything that can connect the two.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This makes me question if dependency and constituency trees are the best way to represent syntactic information for the coming age deep learning algorithms?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is there any other way to encapsulate the subject-verb-object agreement, and the grammar and sentence formation notion in a way that is meaningful &lt;strong&gt;for&lt;/strong&gt; BERT/XLNet and consequently CNNs/LSTMs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Maybe what we are looking for is a new form of syntactic parsing that is built on the past ideas and can also capture the sentence structure of gen-z lingo in a machine interpretable way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maybe there already exist some parsings, for english or a low-resource language, that has accidentally solved this problem and is hence applicable for this chain of thought?&lt;/p&gt;
+&lt;p&gt;If this makes you think or if there is something I&amp;rsquo;ve missed, pick my brain at shreyag [at] iiitd [dot] ac [dot] in&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Google Women Techmakers Experience 2019</title>
@@ -123,13 +142,13 @@ So there I was, sitting in the library, with my friend from FIITJEE days by my s
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://shreyagupta08.github.io/post/travelling-respite/</guid>
       <description>&lt;p&gt;For the past few years every time I travelled to a hill station: to rivers in the north east, in the gravel grounds and through the sea green Psangong lake of Leh, the green in Kashmir, I’ve wondered what we are trading in our big urban clogged up cities. I’ve dreamt living a life in a town dreams are made of.&lt;/p&gt;
-&lt;p&gt;It was only until the recent trip to my maternal grandparents house that I realised what the temptation was all about. When I saw my mother unite with her two sisters, one elder another younger, at the midnight between the elder’s birthday the past day and my mother’s that day, all there by the absolute token of coincidence and some persistence with their husbands, cake smudged on their faces, some deservedly, others forcefully and for the symmetry, I caught, as I clicked pictures, the deep rooted reason. Between working their lives to make their parents proud and never let their children see what they had to, and watching their lives take disparate tangents along the process, they were stealing a moment. Stealing a moment between past’s unsynchronisation and future’s uncertainty.&lt;/p&gt;
-&lt;p&gt;Travelling in the bus, squeezed, watching a documentary on Netflix, acd prs the internet goes down, I look up and right, outside the nearest window, to gauge the green paddy fields and a light drizzle. Instantaneously amongst serious lines, a smile appeared, almost reflexivily. I realised this was another moment I stole.&lt;/p&gt;
+&lt;p&gt;It was only until the recent trip to my maternal grandparents house that I realised what the temptation was all about. When I saw my mother unite with her two sisters, one elder another younger, at the midnight between the elder’s birthday the past day and my mother’s that day, all present by the absolute token of coincidence and some persistence with their husbands, cake smudged on their faces, some deservedly, others forcefully and for the symmetry, I caught, as I clicked pictures, the deep rooted reason. Between working their lives to make their parents proud and never let their children see what they had to, and watching their lives take disparate tangents along the process, they were stealing a moment. Stealing a moment between past’s unsynchronisation and future’s uncertainty.&lt;/p&gt;
+&lt;p&gt;Travelling in the bus, squeezed, watching a documentary on Netflix, as the internet goes down, I look up and right, outside the nearest window, to gauge the green paddy fields and a light drizzle. Instantaneously amongst serious facial lines, a smile appeared, almost reflexivily and involuntarily. I realised this was a moment I &lt;strong&gt;stole&lt;/strong&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;It is for these little moments that we steal in our everyday lives or every once in a while, that makes us complete.&lt;/p&gt;
+&lt;p&gt;It is for these little moments that we steal in our everyday lives, every once in a while, that makes us complete.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Watching an episode of friends when you have jam-packed deadlines to meet; sneaking out of your home, picking your best friend along the way and going to your favourite stall on the street when you have an important test coming up; a casual walk in the park; stopping to look at a baby with bubbly eyes for 5 minutes straight; helping an acquaintance out and laughing on something stupid; a 3 hour ‘power nap’, these are the little moments that make life worth living.&lt;/p&gt;
-&lt;p&gt;When was the last time you stole a moment?&lt;/p&gt;
+&lt;p&gt;Watching an episode of Friends when you have deadlines to meet; sneaking out of your home, picking your best friend along the way and going to your favourite stall on the street when you have an important test coming up; a casual walk in the park; stopping to look at a baby with bubbly eyes for 5 minutes straight; helping an acquaintance out; laughing on something stupid; a 3 hour ‘power nap’; these are the little moments that make life life.&lt;/p&gt;
+&lt;h4 id=&#34;when-was-the-last-time-you-stole-a-moment&#34;&gt;When was the last time you stole a moment?&lt;/h4&gt;
 </description>
     </item>
     

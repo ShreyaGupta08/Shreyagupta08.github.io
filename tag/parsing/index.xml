@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>parsing | Shreya Gupta</title>
+    <link>https://shreyagupta08.github.io/tag/parsing/</link>
+      <atom:link href="https://shreyagupta08.github.io/tag/parsing/index.xml" rel="self" type="application/rss+xml" />
+    <description>parsing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Shreya Gupta</copyright><lastBuildDate>Thu, 29 Oct 2020 12:58:52 +0530</lastBuildDate>
+    <image>
+      <url>https://shreyagupta08.github.io/images/icon_hu9c8858d98a9f6355c91aeb707155ff20_20214_512x512_fill_lanczos_center_2.png</url>
+      <title>parsing</title>
+      <link>https://shreyagupta08.github.io/tag/parsing/</link>
+    </image>
+    
+    <item>
+      <title>Creating a New Synactic Parser?</title>
+      <link>https://shreyagupta08.github.io/post/new-parser/</link>
+      <pubDate>Thu, 29 Oct 2020 12:58:52 +0530</pubDate>
+      <guid>https://shreyagupta08.github.io/post/new-parser/</guid>
+      <description>&lt;p&gt;Working on my last project on claim detection in online text I hypothesized using syntactic information in addition to semantic information given the proven and claimed importance of sentence structure in formation of a claim. While generating POS and dependency trees I realised a gap we have so blissfully been ignorant of.&lt;/p&gt;
+&lt;p&gt;Before the advent of Deep Learning major NLP tasks used syntactic parsers. They produced parsings like POS tags, Dependency trees and Constituency trees. With the rise of this black box Deep Learning more tasks could be magically solved. Since these black boxes preceeded by embedding methods like BERT need meaningful inputs like sentences, dependency and consitutency trees find it difficult to be constituted in a meaningful sentence-like form. Now we have a tree that contains a lot of useful syntactic information that is inherently important for any machine to learn natural language AND we have this revolutionary black box (DL) BUT we do not have anything that can connect the two.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This makes me question if dependency and constituency trees are the best way to represent syntactic information for the coming age deep learning algorithms?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is there any other way to encapsulate the subject-verb-object agreement, and the grammar and sentence formation notion in a way that is meaningful &lt;strong&gt;for&lt;/strong&gt; BERT/XLNet and consequently CNNs/LSTMs.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Maybe what we are looking for is a new form of syntactic parsing that is built on the past ideas and can also capture the sentence structure of gen-z lingo in a machine interpretable way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maybe there already exist some parsings, for english or a low-resource language, that has accidentally solved this problem and is hence applicable for this chain of thought?&lt;/p&gt;
+&lt;p&gt;If this makes you think or if there is something I&amp;rsquo;ve missed, pick my brain at shreyag [at] iiitd [dot] ac [dot] in&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
